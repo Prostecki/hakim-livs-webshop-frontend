@@ -1,6 +1,6 @@
 # 🛒 Hakim Livs Webshop — Frontend (2025)
 
-**Hakim Livs Webshop** is a fully functional e-commerce application built using the **MERN stack** (MongoDB, Express.js, React, Node.js) as part of a collaborative student project. This repository contains the **frontend** implementation using **Vanilla JavaScript, HTML, and CSS**.
+**Hakim Livs Webshop** is a fully functional e-commerce application built using the (MongoDB, Express.js, Node.js) as part of a collaborative student project. This repository contains the **frontend** implementation using **Vanilla JavaScript, HTML, and CSS**.
 
 > 📦 **Backend is maintained in a separate repository:**  
 > 🔗 [View the Backend Repository](https://github.com/Prostecki/hakim-livs-webshop)
