@@ -3,8 +3,7 @@
 **Hakim Livs Webshop** is a fully functional e-commerce application built using the (MongoDB, Express.js, Node.js) as part of a collaborative student project. This repository contains the **frontend** implementation using **Vanilla JavaScript, HTML, and CSS**.
 
 > 📦 **Backend is maintained in a separate repository:**  
-> 🔗 [View the Backend Repository](https://github.com/Prostecki/hakim-livs-webshop)
-
+> 🔗 [View the Backend Repository](https://github.com/Prostecki/hakim-livs-webshop-backend)
 ---
 
 ## 🎯 Project Goals
