@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 🛒 Hakim Livs Webshop — Fullstack Project
 
 This is a fullstack e-commerce application built for the client *Hakim* by a cross-functional student team using the **MERN stack** (MongoDB, Express.js, React, Node.js) following **Scrum methodology**.
