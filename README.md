@@ -31,7 +31,7 @@
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/mansi-fed24/Webshop-2025-FE-G1.git
+git clone https://github.com/Prostecki/hakim-livs-webshop.git
 ```
 
 ### 2. Launch locally:
