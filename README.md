@@ -39,36 +39,6 @@ git clone https://github.com/Prostecki/hakim-livs-webshop.git
 
 ---
 
-## 🗂 Project Structure
-
-```
-├── index.html               # Homepage
-├── products.html            # Product overview
-├── cart.html                # Shopping cart
-├── checkout.html            # Checkout form
-├── login.html               # User login
-├── admin-product.html       # Admin panel
-├── js/
-│   ├── index.js
-│   ├── products.js
-│   ├── cart.js
-│   ├── checkout.js
-│   ├── login.js
-│   ├── admin-product.js
-│   ├── admin-addproduct.js
-│   └── utils/
-│       ├── cartFunctions.js
-│       └── api.js
-├── css/
-│   ├── index.css
-│   ├── products.css
-│   ├── cart.css
-│   ├── checkout.css
-│   ├── login.css
-│   ├── admin-product.css
-```
-
----
 
 ## 🔑 Features
 
